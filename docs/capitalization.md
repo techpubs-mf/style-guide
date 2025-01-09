@@ -43,17 +43,17 @@ Headline-style capitalization follows these guidelines:
 
 For the following components in HID docs, use these capitalization guidelines:
 
-| **Doc component** | **Capitalization style** | **Example** |
-|---|---|---|
-| Manual titles | Headline style | Search Reference |
-| Chapter titles | Sentence style | Plan HID apps |
-| Headings at any level | Sentence style | Get data into HID Linq Cloud |
-| List items | Sentence style | 1. Log in with your username and password. |
-| Column headings in a table | Sentence style | Refer to this table as an example. |
+| **Doc component**          | **Capitalization style** | **Example**                                |
+|----------------------------|--------------------------|--------------------------------------------|
+| Manual titles              | Headline style           | Search Reference                           |
+| Chapter titles             | Sentence style           | Plan HID apps                              |
+| Headings at any level      | Sentence style           | Get data into HID Linq Cloud               |
+| List items                 | Sentence style           | 1. Log in with your username and password. |
+| Column headings in a table | Sentence style           | Refer to this table as an example.         |
 
 ### HID product names, features, and components
 
-Capitalize HID product names. In general, don't capitalize the names of features or components. For correct capitalization of HID terms, see the Splexicon.
+Capitalize HID product names. In general, don't capitalize the names of features or components. For correct capitalization of HID terms, see the [HID Trademarks section of the Brand Portal](https://www.hidglobal.com/hid-trademarks).
 
 For capitalization of the parts of a HID product architecture, such as a heavy forwarder or a search head, see [HID product terminology](hid-terminology-and-trademarks.md#hid-product-terminology).
 
@@ -63,8 +63,8 @@ For capitalization within a HID product UI, such as whether to capitalize a butt
 
 Don't capitalize terms that are normally capitalized as UI terms when they refer to concepts instead. See the following examples:
 
-| **Concept** | **UI term** |
-|---|---|
-| Users with admin privileges can change the server settings. | Select **Settings** and then Server Settings. |
-| Identify the number of indexers in your deployment. | Select **Data** and then **Indexers**. |
+| **Concept**                                                                                         | **UI term**                                         |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Users with admin privileges can change the server settings.                                         | Select **Settings** and then Server Settings.       |
+| Identify the number of indexers in your deployment.                                                 | Select **Data** and then **Indexers**.              |
 | Create a custom deep dive to investigate the root cause of a specific issue in your IT environment. | From the **ITSI** main menu, select **Deep Dives**. |

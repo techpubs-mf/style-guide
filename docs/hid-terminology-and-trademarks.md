@@ -12,27 +12,27 @@ When used alone, "HID" refers only to the company, not to any product. Don't use
 
 Use HID software to refer to anything and everything the company offers. Don't capitalize the "s" in "software", and don't include a definite article.
 
-| **Correct** | **Incorrect** |
-|---|---|
+| **Correct**  | **Incorrect**                                                            |
+|--------------|--------------------------------------------------------------------------|
 | HID software | The HID software<br>The HID Software<br>the HID Software<br>HID Software |
 
 ### The HID platform
 
 Use the HID platform to refer to both HID Cloud Platform and HID Enterprise. Don't capitalize the "p" in "platform", and make sure you include a definite article.
 
-| **Correct** | **Incorrect** |
-|---|---|
+| **Correct**                          | **Incorrect**                    |
+|--------------------------------------|----------------------------------|
 | The HID platform<br>the HID platform | The HID Platform<br>HID platform |
 
 You can use "the HID platform" or "HID platform" without a definite article as a modifier. Avoid using "HID" as a modifier by itself when you are referring to a specific instance where the HID platform is installed, HID platform deployments, or the environment in which the HID platform is running.
 
-| **Correct** | **Incorrect** |
-|---|---|
+| **Correct**                                                                                                                | **Incorrect**                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Restart the HID platform instance...<br>In a distributed HID platform deployment...<br>In your HID platform environment... | HID platform server<br>HID server<br>HID deployment<br>HID instance<br>HID environment<br>HID implementation |
 
 #### HID platform architecture components
 
-Don't capitalize HID platform architecture components such as indexers, forwarders, search heads, license managers, and deployment servers. If you are unsure how to capitalize a HID term, see the Splexicon for the correct capitalization.
+Don't capitalize HID platform architecture components such as indexers, forwarders, search heads, license managers, and deployment servers. If you are unsure how to capitalize a HID term, see the [HID Trademarks section of the Brand Portal](https://www.hidglobal.com/hid-trademarks).
 
 #### Choose the most specific and accurate term in each situation
 
@@ -48,16 +48,16 @@ Use these guidelines to determine which term to write:
 
 Here are examples of HID product terms in a sentence with an explanation of why the term in bold is the best term to use:
 
-| **Example** | **Explanation** |
-|---|---|
-| Configure your inputs on your **data collection node** using the inputs.conf file or HID Web. | The most specific and accurate term here is the component on which the configuration takes place. |
-| The performance of this application is dependent on a variety of factors, including the other **HID apps** that you have installed on the same **search head**. | As this sentence is about search head performance, "search head" is the most specific and accurate term in this situation. Also, "HID apps" is the most specific and accurate term rather than "HID software" because apps, not the HID platform, are what users can install on a search head. |
-| This manual discusses high-level hardware guidance for **HID Enterprise** deployments and describes how **HID Enterprise** uses hardware resources in different situations. | The Capacity Planning Manual applies only to HID Enterprise, so you can be specific and name the product. |
-| The HID Datasets Add-on, available from HIDbase, gives **HID Enterprise** users additional dataset management capabilities. **HID Cloud Platform** users have the HID Datasets Add-on by default. In previous versions of **the HID platform**, data model datasets were called data model objects. | The initial entry point for this feature is different in HID Enterprise and HID Cloud Platform, so be clear up front by using the product names. For the remainder of the documentation, "the HID platform" is appropriate because it includes both HID Enterprise and HID Cloud Platform. |
-| Metrics is a feature of **the HID platform**. | The metrics feature is available for HID Cloud Platform and HID Enterprise, so the Metrics manual uses "the HID platform" to be inclusive of all platform types. |
-| **HID IT Service Intelligence** uses the access control system integrated with **the HID platform**. | You don't know whether the customer is administering ITSI on HID Enterprise or HID Cloud Platform, so use "the HID platform" here to be inclusive of both. |
-| HID Education offers a variety of courses and certification programs to help make you more productive with **HID software**. | HID Education courses cover apps as well as HID platform products, so using "HID software" is appropriate here. |
-| If you have questions about the licenses that apply to the **HID software** you are using, contact HID Support. | Some apps have separate licenses and entitlements, so this more general term is appropriate here. |
+| **Example**                                                                                                                                                                                                                                                                                         | **Explanation**                                                                                                                                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Configure your inputs on your **data collection node** using the inputs.conf file or HID Web.                                                                                                                                                                                                       | The most specific and accurate term here is the component on which the configuration takes place.                                                                                                                                                                                              |
+| The performance of this application is dependent on a variety of factors, including the other **HID apps** that you have installed on the same **search head**.                                                                                                                                     | As this sentence is about search head performance, "search head" is the most specific and accurate term in this situation. Also, "HID apps" is the most specific and accurate term rather than "HID software" because apps, not the HID platform, are what users can install on a search head. |
+| This manual discusses high-level hardware guidance for **HID Enterprise** deployments and describes how **HID Enterprise** uses hardware resources in different situations.                                                                                                                         | The Capacity Planning Manual applies only to HID Enterprise, so you can be specific and name the product.                                                                                                                                                                                      |
+| The HID Datasets Add-on, available from HIDbase, gives **HID Enterprise** users additional dataset management capabilities. **HID Cloud Platform** users have the HID Datasets Add-on by default. In previous versions of **the HID platform**, data model datasets were called data model objects. | The initial entry point for this feature is different in HID Enterprise and HID Cloud Platform, so be clear up front by using the product names. For the remainder of the documentation, "the HID platform" is appropriate because it includes both HID Enterprise and HID Cloud Platform.     |
+| Metrics is a feature of **the HID platform**.                                                                                                                                                                                                                                                       | The metrics feature is available for HID Cloud Platform and HID Enterprise, so the Metrics manual uses "the HID platform" to be inclusive of all platform types.                                                                                                                               |
+| **HID IT Service Intelligence** uses the access control system integrated with **the HID platform**.                                                                                                                                                                                                | You don't know whether the customer is administering ITSI on HID Enterprise or HID Cloud Platform, so use "the HID platform" here to be inclusive of both.                                                                                                                                     |
+| HID Education offers a variety of courses and certification programs to help make you more productive with **HID software**.                                                                                                                                                                        | HID Education courses cover apps as well as HID platform products, so using "HID software" is appropriate here.                                                                                                                                                                                |
+| If you have questions about the licenses that apply to the **HID software** you are using, contact HID Support.                                                                                                                                                                                     | Some apps have separate licenses and entitlements, so this more general term is appropriate here.                                                                                                                                                                                              |
 
 #### Still not sure which term to use?
 
@@ -85,8 +85,8 @@ Use HID as a noun if you mean the company. Don't use HID as a verb. You can use 
 
 Don't use an apostrophe to make product names, company names, or trademarked terms possessive or plural. Incorrect use can dilute the trademark or registered trademark. See the following examples:
 
-| **Original** | **Revision** |
-|---|---|
+| **Original**                                       | **Revision**                                         |
+|----------------------------------------------------|------------------------------------------------------|
 | The use of HID's Search Processing Language (SPL). | The use of the HID Search Processing Language (SPL). |
 
 For acceptable uses of apostrophes in your writing, see [Apostrophe](punctuation-and-symbols.md#apostrophe). Don't add trademark attribution to third-party company or product names.

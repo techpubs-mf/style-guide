@@ -9,16 +9,16 @@ Much of the guidance for HID documentation and UI text overlaps. If you can't fi
 ### Terminology and word usage
 Use terms consistently across products and docs. See the following resources for guidance on word usage, product terminology, abbreviations, voice and tone, and more:
 
-| **Topic** | **Link** |
-|---|---|
-|Terms to use and avoid | [Usage dictionary](usage-dictionary.md) |
-| Product terminology | [HID product terminology](hid-terminology-and-trademarks.md#hid-product-terminology) |
-| HID-specific terminology definitions | ***Splexicon*** |
-| Abbreviations | [Abbreviations](grammar-and-word-choice.md#abbreviations) |
-| Acronyms | [Acronyms](grammar-and-word-choice.md#acronyms) |
-| Punctuation | [Punctuation and symbols](punctuation-and-symbols.md) |
-| Voice and tone | [Voice and tone](voice-and-tone.md)<br><br>[Use plain language](voice-and-tone.md#use-plain-language)<br>[Be active and present](voice-and-tone.md#be-active-and-present)<br>[Write in indicative or imperative mood](voice-and-tone.md#write-in-indicative-or-imperative-mood) |
-| Bias-free language | [Write unbiased documentation](bias-free-communication.md#write-unbiased-documentation)<br><br>[Use device-agnostic language](bias-free-communication.md#use-device-agnostic-language) |
+| **Topic**                            | **Link**                                                                                                                                                                                                                                                                        |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Terms to use and avoid               | [Usage dictionary](usage-dictionary.md)                                                                                                                                                                                                                                         |
+| Product terminology                  | [HID product terminology](hid-terminology-and-trademarks.md#hid-product-terminology)                                                                                                                                                                                            |
+| HID-specific terminology definitions | [HID Trademarks section of the Brand Portal](https://www.hidglobal.com/hid-trademarks)                                                                                                                                                                                          |
+| Abbreviations                        | [Abbreviations](grammar-and-word-choice.md#abbreviations)                                                                                                                                                                                                                       |
+| Acronyms                             | [Acronyms](grammar-and-word-choice.md#acronyms)                                                                                                                                                                                                                                 |
+| Punctuation                          | [Punctuation and symbols](punctuation-and-symbols.md)                                                                                                                                                                                                                           |
+| Voice and tone                       | [Voice and tone](voice-and-tone.md)<br><br>[Use plain language](voice-and-tone.md#use-plain-language)<br>[Be active and present](voice-and-tone.md#be-active-and-present)<br>[Write in indicative or imperative mood](voice-and-tone.md#write-in-indicative-or-imperative-mood) |
+| Bias-free language                   | [Write unbiased documentation](bias-free-communication.md#write-unbiased-documentation)<br><br>[Use device-agnostic language](bias-free-communication.md#use-device-agnostic-language)                                                                                          |
 
 ### Capitalization
 
@@ -30,14 +30,14 @@ Use sentence-style capitalization for all text in HID product UIs, including hea
 
 The following examples show sentence-style capitalization:
 
-| **UI text element** | **Do this** | **Don't do this** |
-|---|---|---|
-| Button label | Create dashboard | Create Dashboard |
-| Dialog box title | Edit schedule | Edit Schedule |
-| Explanatory text | Indexer clusters are groups of HID indexers configured to keep multiple copies of data. | Indexer Clusters are groups of HID Indexers configured to keep multiple copies of data. |
-| Field label | Indexed fields | Indexed Fields |
-| Page title | Data models | Data Models |
-| Section heading | Dashboard groups | Dashboard Groups |
+| **UI text element** | **Do this**                                                                             | **Don't do this**                                                                       |
+|---------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Button label        | Create dashboard                                                                        | Create Dashboard                                                                        |
+| Dialog box title    | Edit schedule                                                                           | Edit Schedule                                                                           |
+| Explanatory text    | Indexer clusters are groups of HID indexers configured to keep multiple copies of data. | Indexer Clusters are groups of HID Indexers configured to keep multiple copies of data. |
+| Field label         | Indexed fields                                                                          | Indexed Fields                                                                          |
+| Page title          | Data models                                                                             | Data Models                                                                             |
+| Section heading     | Dashboard groups                                                                        | Dashboard Groups                                                                        |
 
 ### Terminal punctuation
 
@@ -54,13 +54,13 @@ For more punctuation guidelines, see [Punctuation and symbols](punctuation-and-s
 
 See the following examples of correct and incorrect terminal punctuation:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| The search head removes the alias field from the event. | The search head removes the alias field from the event |
-| Search results | Search results. |
+| **Do this**                                                                | **Don't do this**                                                          |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| The search head removes the alias field from the event.                    | The search head removes the alias field from the event                     |
+| Search results                                                             | Search results.                                                            |
 | The search processed 100,000 events. This process took less than 1 minute. | The search processed 100,000 events, this process took less than 1 minute. |
-| What is the average query response time? | What is the average query response time |
-| The update includes enhanced security features. | The update includes enhanced security features! |
+| What is the average query response time?                                   | What is the average query response time                                    |
+| The update includes enhanced security features.                            | The update includes enhanced security features!                            |
 
 ### Text formatting
 
@@ -75,8 +75,8 @@ Use the following formatting guidelines:
 
 See the following examples:
 
-| **Do this** | **Don't do this** |
-|---|---|
+| **Do this**               | **Don't do this**             |
+|---------------------------|-------------------------------|
 | Enter your email address. | Enter your **email address**. |
 | Use the `map_get()` function to extract nested values from the attributes field. | 
 Use `map_get()` to extract nested values from `attributes`. |
@@ -100,25 +100,25 @@ For more guidance on numbers with examples, see [Using numbers in text](numbers.
 
 When writing about time, follow the guidelines in the [Time](numbers.md#time) topic. If you need to abbreviate units of time due to space constraints in a HID product UI, use these abbreviations:
 
-| **Unit** | **Abbreviation** |
-|---|---|
-| day | d |
-| hour | h |
+| **Unit**    | **Abbreviation**  |
+|-------------|-------------------|
+| day         | d                 |
+| hour        | h                 |
 | microsecond | Don't abbreviate. |
-| millisecond | ms |
-| minute  | min |
-| month | mo |
-| nanosecond | Don't abbreviate. |
-| second | sec |
-| week | wk |
-| year | yr |
+| millisecond | ms                |
+| minute      | min               |
+| month       | mo                |
+| nanosecond  | Don't abbreviate. |
+| second      | sec               |
+| week        | wk                |
+| year        | yr                |
 
 ### Symbols
 
 If you need to use a symbol in UI text, write out the name of the symbol first, and then refer to the symbol in parentheses with nonbreaking spaces. The HTML character entity for a nonbreaking space is `&nbsp;`. See the following example:
 
-| **Correct** | **Incorrect** |
-|---|---|
+| **Correct**                              | **Incorrect**                   |
+|------------------------------------------|---------------------------------|
 | Enter your search after the pipe ( \| ). | Enter your search after the \|. |
 
 See [Show symbols in text](punctuation-and-symbols.md#show-symbols-in-text) for more information on how to use symbols and what to call them.
@@ -154,11 +154,11 @@ When including a link to a page in the application, or another location on the s
 
 The following table shows examples of what to do and what not to do when linking to a page in a sentence:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Start getting data in on the Connect your data page. | If data has not been ingested yet, click here to initiate the GDI setup. |
-| View and manage your table views on the Datasets page. | Go here to view and manage your table views. |
-| Manage team schedule. | Click here to manage team schedule. |
+| **Do this**                                            | **Don't do this**                                                        |
+|--------------------------------------------------------|--------------------------------------------------------------------------|
+| Start getting data in on the Connect your data page.   | If data has not been ingested yet, click here to initiate the GDI setup. |
+| View and manage your table views on the Datasets page. | Go here to view and manage your table views.                             |
+| Manage team schedule.                                  | Click here to manage team schedule.                                      |
 
 #### Links to HID product documentation
 
@@ -177,11 +177,11 @@ Follow these guidelines when creating links to HID documentation:
 
 The following table shows examples of what to do and what not to do when writing link text for links to HID documentation:
 
-| **Doc page title** | **Do this** | **Don't do this** |
-|---|---|---|
-| Configure single sign-on with SAML | SAML SSO documentation<br><br>Configuring SSO with SAML documentation | Configure single sign-on with SAML documentation<br><br>Configure single sign-on with SAML |
-| Create scheduled alerts | Scheduled alerts documentation<br><br>Creating scheduled alerts documentation | Create scheduled alerts documentation |
-| Table visualization overview | Table visualization documentation | For more information, see Table visualization overview. |
+| **Doc page title**                 | **Do this**                                                                   | **Don't do this**                                                                          |
+|------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Configure single sign-on with SAML | SAML SSO documentation<br><br>Configuring SSO with SAML documentation         | Configure single sign-on with SAML documentation<br><br>Configure single sign-on with SAML |
+| Create scheduled alerts            | Scheduled alerts documentation<br><br>Creating scheduled alerts documentation | Create scheduled alerts documentation                                                      |
+| Table visualization overview       | Table visualization documentation                                             | For more information, see Table visualization overview.                                    |
 
 #### Links to an external site
 
@@ -193,11 +193,11 @@ Follow these guidelines for links to external sites:
 - Don't use terminal punctuation at the end of the link.
 The following table shows examples of what to do and what not to do when writing links to external sites:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| View on HIDbase | Download the app. |
-| View AWS docs | Review the AWS documentation. |
-| Download Ansible | Ensure that you have Ansible 2.9+ installed. | 
+| **Do this**      | **Don't do this**                            |
+|------------------|----------------------------------------------|
+| View on HIDbase  | Download the app.                            |
+| View AWS docs    | Review the AWS documentation.                |
+| Download Ansible | Ensure that you have Ansible 2.9+ installed. |
 
 ### Field labels
 
@@ -247,11 +247,11 @@ When writing a tooltip, use these guidelines:
 
 The following table shows examples of what to do and what not to do when writing tooltips:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Print | Print. |
-| Enter a name for the model. Include information like the dataset name, the field you're predicting, or the algorithm being used. | Please enter a name for the model so you can refer to it later. You might include information like the name of the dataset, the field you are predicting, or the algorithm being used. |
-| Specifies the maximum amount of time that a summary-creating search can run. Enter 1 hour to ensure proper summary creation for most data models. | Maximum time |
+| **Do this**                                                                                                                                                                      | **Don't do this**                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Print                                                                                                                                                                            | Print.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Enter a name for the model. Include information like the dataset name, the field you're predicting, or the algorithm being used.                                                 | Please enter a name for the model so you can refer to it later. You might include information like the name of the dataset, the field you are predicting, or the algorithm being used.                                                                                                                                                                                                                                                                     |
+| Specifies the maximum amount of time that a summary-creating search can run. Enter 1 hour to ensure proper summary creation for most data models.                                | Maximum time                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | View histograms for the three supported distribution types of Normal, Exponential, and GaussianKDE. Review these results for statistical behavior needing further investigation. | This view helps to get a sense of how groups with similar type of distribution are similar to each other. Do you see that the histogram of mean and standard deviations are very sharp and narrow? This means that most of the groups have similar statistical behavior, so you could consider not splitting them. Are there two distinct peaks in the histograms? That signals two obvious characteristics in your groups. It's worth investigating more. |
 
 ### Button labels
@@ -268,13 +268,13 @@ A button label is text that appears on a call-to-action button in the UI. All bu
 
 The following table shows examples of what to do and what not to do when writing button labels:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Cancel | No |
-| Save | Yes |
-| Create dashboard | Create Dashboard |
-| Create table view | Create a table view |
-| Continue to tour | Continue to the tour! |
+| **Do this**       | **Don't do this**     |
+|-------------------|-----------------------|
+| Cancel            | No                    |
+| Save              | Yes                   |
+| Create dashboard  | Create Dashboard      |
+| Create table view | Create a table view   |
+| Continue to tour  | Continue to the tour! |
 
 ### Empty state text
 
@@ -310,12 +310,12 @@ Write a brief confirmation dialog box title in the form of a statement or questi
 
 The following table shows examples of what to do and what not to do when writing confirmation dialog box titles:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Manage alerts | Alert management |
-| Delete playbook? | Delete Playbook? |
+| **Do this**                       | **Don't do this**                               |
+|-----------------------------------|-------------------------------------------------|
+| Manage alerts                     | Alert management                                |
+| Delete playbook?                  | Delete Playbook?                                |
 | Confirm subscription cancellation | Do you really want to cancel your subscription? |
-| Exit workflow? | Are you sure you want to go? |
+| Exit workflow?                    | Are you sure you want to go?                    |
 
 #### Body text
 
@@ -329,11 +329,11 @@ Include body text in the confirmation dialog box that's related only to the user
 
 The following table shows examples of what to do and what not to do when writing confirmation dialog box body text:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| If this workplace is deleted, it can't be recovered. | Are you sure you want to delete this workspace? |
-| If this playbook is deleted, the following objects will no longer be available: | Please confirm that you want to delete this playbook and all of the objects in it. |
-| Your changes won't be saved if you leave the workflow now. | If you leave this workflow, your changes won't be retained. Is this what you want to do? |
+| **Do this**                                                                     | **Don't do this**                                                                        |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| If this workplace is deleted, it can't be recovered.                            | Are you sure you want to delete this workspace?                                          |
+| If this playbook is deleted, the following objects will no longer be available: | Please confirm that you want to delete this playbook and all of the objects in it.       |
+| Your changes won't be saved if you leave the workflow now.                      | If you leave this workflow, your changes won't be retained. Is this what you want to do? |
 
 #### Button text
 
@@ -351,11 +351,11 @@ When writing a success message, keep the message brief and don't write in comple
 
 The following table shows examples of what to do and what not to do when writing success messages.
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Updates saved | Your updates have been successfully saved.<br>You have successfully saved your updates. |
-| File archived | The file has been archived.<br>HID has archived your file. |
-| Copied to clipboard | You have copied the file to the clipboard. |
+| **Do this**         | **Don't do this**                                                                       |
+|---------------------|-----------------------------------------------------------------------------------------|
+| Updates saved       | Your updates have been successfully saved.<br>You have successfully saved your updates. |
+| File archived       | The file has been archived.<br>HID has archived your file.                              |
+| Copied to clipboard | You have copied the file to the clipboard.                                              |
 
 ### Error and warning messages
 
@@ -369,10 +369,10 @@ When writing an error message, use these guidelines:
 
 The following table shows examples of what to do and what not to do when writing error messages:
 
-| **Do this** | **Don't do this** |
-|---|---|
-| Username not found. Verify that the username is correct and try again. | You entered the wrong username. |
-| Enter your email address. | Your email address hasn't been entered. |
-| The maximum number of concurrent searches has been reached. Decrease the number of concurrent searches or increase search concurrency limits in limits.conf. | Max number of concurrent searches reached. |
+| **Do this**                                                                                                                                                                                      | **Don't do this**                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Username not found. Verify that the username is correct and try again.                                                                                                                           | You entered the wrong username.                                                                                                                  |
+| Enter your email address.                                                                                                                                                                        | Your email address hasn't been entered.                                                                                                          |
+| The maximum number of concurrent searches has been reached. Decrease the number of concurrent searches or increase search concurrency limits in limits.conf.                                     | Max number of concurrent searches reached.                                                                                                       |
 | WARN DistributedPeerManager - Unable to distribute to peer named xxxx at http://xxxx:8089 because authentication failed. Make sure adequate system resources are available on the target server. | WARN DistributedPeerManager - Unable to distribute to peer named xxxx at uri http://xxxx:8089 because peer has status = "Authentication Failed". |
-| The maximum number of search jobs has been reached. To reduce the number of search jobs, go to Job Inspector and delete unneeded jobs. | Max search jobs encountered. |
+| The maximum number of search jobs has been reached. To reduce the number of search jobs, go to Job Inspector and delete unneeded jobs.                                                           | Max search jobs encountered.                                                                                                                     |
